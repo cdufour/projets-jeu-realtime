@@ -1,36 +1,45 @@
-Créer une version en ligne de l'un des jeux suivants:
+***********************************************************
+***** Créer une version web de l'un des jeux suivants *****
+***********************************************************
 
-** Solo **
-Tetris
+=== Solo ===
+-- Tetris --
+Niveau: **
 
 
-** Multijoueurs par tour **
-1/ Qui est-ce ?
+=== Multijoueurs par tour ===
+-- Qui est-ce ? --
 Niveau: *
 Nombre de joueurs: 2
 Règles: https://www.regles-de-jeux.com/regle-du-qui-est-ce/
 
-2/ Jeu de l'oie
+-- Jeu des 7 familles --
+Niveau: *
+Nombre de joueurs: 2-6
+Règles: https://www.regles-de-jeux.com/regle-des-7-familles/
+
+-- Jeu de l'oie --
 Niveau: **
 Nombre de joueurs: 2
 Règles: https://www.regles-de-jeux.com/regle-du-jeu-de-l-oie/
 
-3/ Mille Bornes
-Nombre de joueurs: 2-6
-Règles: https://www.regles-de-jeux.com/regle-du-1000-bornes/
-
-4/ Cluedo
+-- Mille Bornes --
 Niveau: ***
+Nombre de joueurs: 2-6
+Règles: 
+https://www.regles-de-jeux.com/regle-du-1000-bornes/
+https://www.jeuxdujardin.fr/sites/dujardin/files/notices/MB%20Luxe.pdf
+
+-- Cluedo --
+Niveau: ****
 Nombre de joueurs: 2-6
 Règles:
 https://www.regles-de-jeux.com/regle-du-cluedo/
 https://www.jouetopia.fr/comment-jouer-cluedo
 
 
-** Multijoueurs simultanée **
-Pong
+=== Multijoueurs simultanée ===
+-- Pong --
+Niveau: ***
+Nombre de joueurs: 2
 Demo: https://www.youtube.com/watch?v=it0sf4CMDeM
-
-
-
-
