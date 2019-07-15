@@ -1,0 +1,36 @@
+Créer une version en ligne de l'un des jeux suivants:
+
+** Solo **
+Tetris
+
+
+** Multijoueurs par tour **
+1/ Qui est-ce ?
+Niveau: *
+Nombre de joueurs: 2
+Règles: https://www.regles-de-jeux.com/regle-du-qui-est-ce/
+
+2/ Jeu de l'oie
+Niveau: **
+Nombre de joueurs: 2
+Règles: https://www.regles-de-jeux.com/regle-du-jeu-de-l-oie/
+
+3/ Mille Bornes
+Nombre de joueurs: 2-6
+Règles: https://www.regles-de-jeux.com/regle-du-1000-bornes/
+
+4/ Cluedo
+Niveau: ***
+Nombre de joueurs: 2-6
+Règles:
+https://www.regles-de-jeux.com/regle-du-cluedo/
+https://www.jouetopia.fr/comment-jouer-cluedo
+
+
+** Multijoueurs simultanée **
+Pong
+Demo: https://www.youtube.com/watch?v=it0sf4CMDeM
+
+
+
+
